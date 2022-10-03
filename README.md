@@ -36,7 +36,9 @@ When run locally, the server creates a memory file in the project's root directo
   - /signin
   - /users
   - /animals
+  
   -/cestaceans
+  
 Tests
 - Unit Tests: npm run test
 - Lint Tests: npm run lint
