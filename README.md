@@ -36,7 +36,6 @@ When run locally, the server creates a memory file in the project's root directo
   - /signin
   - /users
   - /animals
-  
   -/cestaceans
   
 Tests
